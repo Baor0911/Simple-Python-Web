@@ -3,7 +3,7 @@ This project about make a simple login/signup website with Flask Python.
 Database: SQLAchemy, SQlite studio to manage accounts.
 Set up: 
   + install python : https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe.
-  + install Flask and SQLAlchemy with your cmd: 'pip install Flask" and "pip install SQLAlchemy'.
+  + install Flask and SQLAlchemy with your cmd: 'pip install Flask" and 'pip install SQLAlchemy'.
   + install SQLite Studio: https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.4/SQLiteStudio-3.4.4-windows-x64-installer.exe
   + Download and open folder with VScode (or Anaconda but i use vsc).
   + Run without debugging 'web.py' or Ctrl + f5, you will see in terminal 'Run on http:...'. Hold Ctrl and click to that link, it will open the web.
